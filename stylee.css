@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.e-banking {
+    width: 600px;
+    height: 420px;
+    background-color: rgba(20, 91, 20, 0.647);
+    top: 50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    /* padding: 20px; */
+
+}
+img{
+    width: 500px;
+    height:100px;
+    position: relative;
+    top:20px;
+    left:40px;
+}
+.form{
+    position: relative;
+    bottom: 20px;
+    left: 200px;
+    color:rgb(252, 245, 245);
+}
+a{
+    color:rgba(45, 3, 3, 0.986);
+}
+h1{
+    position: relative;
+    left: 200px;
+    bottom: 10px;
+    color: rgb(243, 233, 233);
+}
+
+
+
